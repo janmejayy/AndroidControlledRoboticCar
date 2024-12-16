@@ -86,15 +86,4 @@ The car supports the following movements:
 - **DC Motor Driver**: Amplifies control signals for motor operation.
 - **DC Motors**: Drives the car in desired directions.
 
----
 
-## References
-- Ujjwal Kumar, Deepak Rasaily, Priyanka Rana. "Cell phone-Based Device Control with Voice Acknowledgment", International Journal of Engineering Trends and Technology (IJETT).
-- HACKSTER.IO
-- Google and WikiHow
-
----
-
-### Replace the image placeholders (e.g., `path/to/components_image.jpg`) with the actual file paths in your repository or URLs of the images.
-
-Save this file as `README.md` in the root directory of your GitHub repository for it to appear on the main project page.
